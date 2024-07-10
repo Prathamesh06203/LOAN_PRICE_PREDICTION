@@ -19,7 +19,7 @@ To get started, clone this repository and install the required dependencies:
 
 bash
 Copy code
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/Prathamesh06203/loan-approval-prediction.git
 cd loan-approval-prediction
 pip install -r requirements.txt
 Usage
