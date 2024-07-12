@@ -16,15 +16,15 @@ This project aims to predict loan approval status based on various input feature
 Installation
 To get started, clone this repository and install the required dependencies:
 
-bash
+```bash
 Copy code
-git clone https://github.com/Prathamesh06203/loan-approval-prediction.git
+git clone https://github.com/Prathamesh06203/LOAN_PRICE_PREDICTION.git
 cd loan-approval-prediction
 pip install -r requirements.txt
 Usage
 To run the project, execute the following command:
-
-bash
+```
+```bash
 Copy code
 jupyter notebook Loan_Approval_Prediction.ipynb
 Project Structure
@@ -32,7 +32,7 @@ Loan_Approval_Prediction.ipynb: Main notebook containing the code for data prepr
 data/: Directory containing the dataset used for training and testing the model.
 models/: Directory to save and load trained models.
 scripts/: Directory for any additional scripts used in the project.
-
+```
 ## Results
 Include a brief summary of the results here, such as the accuracy of the model or any key findings.
 
